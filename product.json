@@ -1,25 +1,24 @@
-[    
-    {
+   {
       id: 1,
       name: 'Gummy',
       category: 'dessert',
       quantity: 15,
       inStock: true,
-      image: require('/var/www/html/std6630251270/inventory/image/gummy.png'),
-    {
+      image: require('/var/www/html/std6630251270/inventory/product/image/gummy.png'),
+   },
+   {
       id: 2,
       name: 'PotatoChip',
       category: 'Snack',
       quantity: 0,
       inStock: false,
-      image: require('/var/www/html/std6630251270/inventory/image/snack.png'),
+      image: require('/var/www/html/std6630251270/inventory/product/image/snack.png'),
     },
-       {
+    {
       id: 3,
       name: 'Marshmallow',
       category: 'dessert',
       quantity: 10,
       inStock: true,
-      image: require('/var/www/html/std6630251270/inventory/image/marshmallow.png'),
+      image: require('/var/www/html/std6630251270/inventory/product/image/marshmallow.png'),
     }
-]
